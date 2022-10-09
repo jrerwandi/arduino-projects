@@ -1,2 +1,2 @@
 # arduino-projects
-Please add a arduino project with any kind of programming language to enliven hactoberfest 2022
+Please add a arduino project to enliven hacktoberfest 2022
